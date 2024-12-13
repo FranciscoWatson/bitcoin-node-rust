@@ -5,3 +5,8 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
+bitcoin_hashes = "0.9"
+secp256k1 = "0.25"
+bs58 = "0.4"
+chrono = "0.4"
+rand = "0.8"
