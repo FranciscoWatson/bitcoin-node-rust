@@ -31,3 +31,8 @@ Thumbs.db
 # Rust-specific settings or files
 *.rlib
 *.lock
+
+
+# Added by cargo
+
+/target
